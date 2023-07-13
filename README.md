@@ -1,7 +1,6 @@
 ### 👋
 
 - Olá, seja bem-vindo ao meu perfil 😉🖖
-- Atualmente estou estudando HTML, CSS & JS ☕💻
 
 <div align="center">
   <a href="https://github.com/kelviny01">
