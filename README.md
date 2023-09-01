@@ -1,6 +1,6 @@
 # Hi there! I'm Kelviny Mickael 👋
 
-## Welcome to my GitHub profile.
+## Welcome to my GitHub profile
 
 - **I am a technology enthusiast and passionate about web development. I am constantly seeking to learn and collaborate on interesting projects. My areas of interest include programming, web development, and much more. I am always open to new opportunities and creative partnerships. Let's code together!** 💻
 
@@ -26,7 +26,7 @@
 
 ##
 
-## My Social Networks.
+## My Social Networks
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelviny-mickael-450532257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelviny_m/)
