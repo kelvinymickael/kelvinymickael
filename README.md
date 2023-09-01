@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-- **I am a technology enthusiast and passionate about web development. I am constantly seeking to learn and collaborate on interesting projects. My areas of interest include programming, web development, and much more. I am always open to new opportunities and creative partnerships. Let's code together!** 💻
+**I am a technology enthusiast and passionate about web development. I am constantly seeking to learn and collaborate on interesting projects. My areas of interest include programming, web development, and much more. I am always open to new opportunities and creative partnerships. Let's code together!** 💻
 
 ##
 
