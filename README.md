@@ -1,4 +1,4 @@
-# Hi there! I'm Kelviny Mickael 👋
+# Hi there! I'm Kelviny Mickael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Welcome to my GitHub profile
 
